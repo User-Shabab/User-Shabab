@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **0mdshabab@gmail.com**
 
-- 📄 Know about my experiences [- r](- r)
+- 📄 Know about my experiences (contact for resume)
 
 - ⚡ Fun fact **I love playing duskers and kiomet**
 
