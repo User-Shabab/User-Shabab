@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=user-shabab&label=Profile%20views&color=0e75b6&style=flat" alt="user-shabab" /> </p>
 
-- 🔭 I’m currently working on **a text based games**
+- 🔭 I’m currently working on **a text based game**
 
 - 🌱 I’m currently learning **Bash and C++**
 
