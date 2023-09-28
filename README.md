@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://stackoverflow.com/users/{soon}" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="{soon}" height="30" width="40" /></a>
+
 <a href="https://www.youtube.com/channel/UChBFsB72aCIZbu8iw2XwV3Q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@thestunninggiantsiphonophore" height="30" width="40" /></a>
 <a href="https://discord.com/users/1076206151571615824" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/users/1076206151571615824" height="30" width="40" /></a>
 </p>
