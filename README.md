@@ -4,7 +4,6 @@ I don't program too actively, since I have some exams to study for, otherwise it
 
 ### Interests and things I like:
 
-- Kiomet and Duskers player
 - Piano/keyboard and music
 - Youtube
 - Cybersecurity
@@ -12,6 +11,7 @@ I don't program too actively, since I have some exams to study for, otherwise it
 - Chess
 - Badmintion
 - Staying organised
+- Kiomet and Duskers player
 - The color green
 
 ### Contacts and links:
