@@ -12,6 +12,7 @@ I don't program too actively, since I have some exams to study for, otherwise it
 - Badmintion
 - Staying organised
 - Kiomet and Duskers player
+- Languages
 - The color green
 
 ### Contacts and links:
