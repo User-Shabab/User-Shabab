@@ -8,8 +8,8 @@ I don't program too actively, since I have some exams to study for, otherwise it
 - Youtube
 - Cybersecurity
 - Quantum computing
-- Chess
-- Badmintion
+- Catan, Chess, and other board games
+- Badmintion and martial arts
 - Staying organised
 - Kiomet and Duskers player
 - Languages
